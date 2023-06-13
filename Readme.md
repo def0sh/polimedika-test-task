@@ -1,7 +1,7 @@
 Проект выполнялся на Ubuntu 22.04.
-Стек:
--FastApi
--Postgres
+#### Стек:
+1. FastApi
+2. Postgres
 
 ### Часть 1: База данных
 
