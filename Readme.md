@@ -1,7 +1,7 @@
 ### Часть 1: База данных
 
 #### 1.1 ER-диаграмма:
-[university.pdf](https://github.com/def0sh/Django-Instead-web-service/files/11730818/university.pdf)
+![eruniv](https://github.com/def0sh/polimedika-test-task/assets/74783488/4027fcaf-70c4-4529-82c3-8ac4accd79c3)
 #### 1.2 Создание таблиц
 ```sql
 CREATE TABLE student (
